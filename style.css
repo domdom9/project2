@@ -1,0 +1,251 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;600;700&display=swap');
+
+
+header{
+    margin-top:20px;
+    padding-left: 40px;
+    width: 100%;
+    font-family: 'Raleway';
+    display: block;
+}
+
+.marseille{
+    margin-right: 20px;
+    color: black;
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: bold;
+    
+    
+}
+
+
+.card{
+    border-radius: 30px;
+    background-color: white;
+    border-radius: 50px;
+}
+
+#sectionone
+{
+    padding-left: 40px;
+    width: 100%;
+    font-family: 'Raleway';
+    display: block;
+}
+
+#sectiontwo
+{
+    padding-left: 40px;
+    width: 100%;
+    font-family: 'Raleway';
+    display: block;
+}
+h1{
+    
+    color: black;
+    font-family: Raleway;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+
+.second-title{
+    color: black;
+    font-family: Raleway;
+    font-size: 15px;
+    font-weight: bold;
+  
+}
+
+
+.title{
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+.title1{
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left:15 px;
+    margin-top: 20px;
+}
+
+p{
+    font-size: 15px;
+    font-family: Raleway;
+}
+
+
+
+
+/* CARD */
+h3{
+font-family: Raleway;
+font-weight: bold;
+}
+
+#star{
+color: #0065FC;
+}
+
+#starz{
+    color: #F2F2F2;
+}
+
+.card-title{
+
+    font-weight: bold;
+    font-size: 20px;
+}
+h4{
+    text-align: right;
+    padding-left: 12px;
+    margin: 2px 0 0 0;
+}
+
+
+h5{
+    text-align: right;
+}
+
+h7{
+    font-family: Raleway;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom:10px;
+    padding-left:10px;
+    
+}
+
+footer {
+    font-family: Raleway;
+    display: flex;
+    padding: 50px; 
+    background-color: #f2f2f2;
+    width: 100%;
+    
+}
+
+
+
+.topleft {
+    font-family: Raleway;
+    text-decoration: none;
+    justify-content: flex-end, space-around ;
+    width: 20%;
+            float: right;
+        display: block;
+        position: absolute;
+    top: 30px;
+    right: 10px;
+    
+
+}
+
+
+
+li {
+    display : inline-block;
+    width : 33%;
+    font-family: Raleway;
+  }
+
+  ul {
+    list-style-type : none;
+  }
+
+  #picto{
+      color: #0065FC;
+  }
+
+
+ .list{
+    justify-content: left;
+    text-decoration: none;
+}
+
+.container{
+    text-align: left;
+    width: 100%;
+    max-width: 1480px;
+    margin: 0 auto;
+    display:flex;
+    justify-content:flex-start;
+    
+}
+
+
+input{
+    width : 200PX;
+     height : 38px;
+}
+
+
+ .plus{
+    font-weight: bold;
+    font-family: Raleway;
+    margin-left:20px;
+    font-size: 15px;
+   margin-top:10px;
+ }
+
+/* CADRE + FLEXBOX */
+#assets-list {
+    display: flex;
+    padding: 20px;
+    
+ }
+
+ .assets-list{
+     flex-direction: column;
+     display: block;
+
+ }
+
+ #cube{
+    
+        width: 900px;
+        height: 820px;
+        border: 1px solid #F2F2F2;
+        background-color: #F2F2F2;
+        border-radius: 30px;
+      
+ }
+
+ #cube2{
+
+    width: 400px;
+    height: 820px;
+    border: 1px solid #F2F2F2;
+    background-color: #F2F2F2;
+    border-radius: 30px;
+    margin: 10px;
+   
+  
+    
+    
+ }
+
+ .card-img-top{
+    align-items: center;
+ }
+
+
+aside{
+    float: right;
+    position:absolute;
+top:340px;
+right:30px;
+height: 350px;
+    
+    
+}
+
+#linkcard{
+    text-decoration: none;
+    color: black;
+}
